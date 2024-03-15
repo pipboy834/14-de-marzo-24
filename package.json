@@ -1,0 +1,25 @@
+{
+  "name": "hhhh",
+  "version": "1.0.0",
+  "description": "hhh",
+  "main": "hhh",
+  "scripts": {
+    "test": "hhh",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hhhhhh"
+  },
+  "keywords": [
+    "h"
+  ],
+  "author": "hhhh",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
